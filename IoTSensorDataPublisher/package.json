@@ -1,0 +1,19 @@
+{
+  "name": "PubSubIntegration",
+  "version": "1.0.0",
+  "description": "Client for PubSub",
+  "main": "SenorSimulator.js",
+  "scripts": {
+    "start": "node SenorSimulator.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "~0.19.0",
+    "dotenv": "~4.0.0"
+  },
+  "engines": {
+    "npm": "6.4.1",
+    "node": "8.9.3"
+  }
+}
